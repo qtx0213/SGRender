@@ -239,6 +239,14 @@
 			Name="SRender"
 			>
 			<File
+				RelativePath=".\RenderManager.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\RenderManager.h"
+				>
+			</File>
+			<File
 				RelativePath="..\SRender\SRender.cpp"
 				>
 			</File>
