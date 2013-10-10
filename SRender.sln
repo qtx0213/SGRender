@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RenderModule", "RenderModule", "{E13391FB-A00E-4B76-B107-DBBF0BABBED8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SROpengl", "SROpengl\SROpengl.vcproj", "{3A681AA0-A25A-48C2-ABA9-1044A3D0F074}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SRD3D9", "SRD3D9\SRD3D9.vcproj", "{A8D3EFB0-7EAA-4476-8632-0E371EB12379}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo", "Demo\Demo.vcproj", "{50C45D03-5E09-4F1A-87B2-821DB8A32584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A681AA0-A25A-48C2-ABA9-1044A3D0F074}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A681AA0-A25A-48C2-ABA9-1044A3D0F074}.Debug|Win32.Build.0 = Debug|Win32
+		{3A681AA0-A25A-48C2-ABA9-1044A3D0F074}.Release|Win32.ActiveCfg = Release|Win32
+		{3A681AA0-A25A-48C2-ABA9-1044A3D0F074}.Release|Win32.Build.0 = Release|Win32
+		{A8D3EFB0-7EAA-4476-8632-0E371EB12379}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8D3EFB0-7EAA-4476-8632-0E371EB12379}.Debug|Win32.Build.0 = Debug|Win32
+		{A8D3EFB0-7EAA-4476-8632-0E371EB12379}.Release|Win32.ActiveCfg = Release|Win32
+		{A8D3EFB0-7EAA-4476-8632-0E371EB12379}.Release|Win32.Build.0 = Release|Win32
+		{50C45D03-5E09-4F1A-87B2-821DB8A32584}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50C45D03-5E09-4F1A-87B2-821DB8A32584}.Debug|Win32.Build.0 = Debug|Win32
+		{50C45D03-5E09-4F1A-87B2-821DB8A32584}.Release|Win32.ActiveCfg = Release|Win32
+		{50C45D03-5E09-4F1A-87B2-821DB8A32584}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A681AA0-A25A-48C2-ABA9-1044A3D0F074} = {E13391FB-A00E-4B76-B107-DBBF0BABBED8}
+		{A8D3EFB0-7EAA-4476-8632-0E371EB12379} = {E13391FB-A00E-4B76-B107-DBBF0BABBED8}
+	EndGlobalSection
+EndGlobal
