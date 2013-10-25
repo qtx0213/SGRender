@@ -1,7 +1,9 @@
-
+/***********************************************************
+	RenderManager.h
+************************************************************/
 #pragma once
 
-class RenderManager
+class RenderManager 
 {
 public:
 	RenderManager(void);
