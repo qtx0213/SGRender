@@ -189,6 +189,26 @@
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
 		</Filter>
+		<Filter
+			Name="rendercommon"
+			>
+			<File
+				RelativePath="..\rendercommon\rendercommon.cpp"
+				>
+			</File>
+			<File
+				RelativePath="..\rendercommon\rendercommon.h"
+				>
+			</File>
+		</Filter>
+		<Filter
+			Name="tools"
+			>
+			<File
+				RelativePath="..\tool\SRTypes.h"
+				>
+			</File>
+		</Filter>
 		<File
 			RelativePath=".\ReadMe.txt"
 			>
