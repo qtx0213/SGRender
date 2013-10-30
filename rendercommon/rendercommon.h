@@ -10,7 +10,4 @@ enum SREM_CULLMODE
 	SREM_D3DCULL_CCW                = 3,
 };
 
-
-
-
 #endif
